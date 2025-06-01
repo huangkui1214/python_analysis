@@ -1,0 +1,5 @@
+requests
+matplotlob
+wget
+numpy
+pandas
